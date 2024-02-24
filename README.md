@@ -3,29 +3,31 @@
 
 This Bash script demonstrates asymmetric encryption using OpenSSL in a simple step-by-step manner. It generates a public/private key pair, encrypts sensitive data, decrypts it, and displays the decrypted data.
 
-## Prerequisites
+# Prerequisites
 
 Make sure you have OpenSSL installed on your system.
 
 sudo apt-get install openssl
 
-# Clone the repository:
+## Clone the repository:
 
 Copy code--git clone https://github.com/Bhanu-Guragain0/Shiva-Sir-Bash.git
 
-# Navigate to the cloned directory:
+## Navigate to the cloned directory:
 
 cd Shiva-Sir-Bash
 
-# Make the script executable:
+## Make the script executable:
 
 
 chmod +x script.sh
 
 
-#Run the script-
+## Run the script-
 ./script.sh
-Explanation
+
+
+# Explanation
 The script performs the following steps:
 
 Generate Keys: Creates a public/private key pair using OpenSSL.
